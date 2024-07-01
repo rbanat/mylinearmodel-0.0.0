@@ -22,14 +22,14 @@ Les contraintes ont donc été respectées.
 Décompresser le fichier **mylinearmodel-0.0.0.tar.gz**
     
         tar -xvzf mylinearmodel-0.0.0.tar.gz
-    
-Puis installer le package **mylinearmodel**
-    
-        python3 setup.py install
 
-Enfin, se placer dans le dossier **mylinearmodel**
+Puis, se placer dans le dossier **mylinearmodel**
 
         cd mylinearmodel-0.0.0
+    
+Enfin, installer le package **mylinearmodel**
+    
+        python3 setup.py install
 
 
 Pour lancer les tests unitaires
